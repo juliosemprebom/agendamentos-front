@@ -1,4 +1,9 @@
-function Tabela({vetor, selecionar}){
+function Tabela({vetor, selecionar, carregando}){
+
+    if (carregando) {
+        return <p>Carregando registros do servidor...</p>;
+      }
+    
 
     if(!vetor || vetor.length ===0){
         return <p>Nenhum agendamento disponível.</p>
