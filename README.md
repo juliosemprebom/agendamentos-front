@@ -1,3 +1,6 @@
-https://agendamentos-front.onrender.com/
+## Projeto CRUD de Agendamentos  
 
-https://crud-agendamentos-back-end.onrender.com/listarTodos
+Dividido em frontend e backend:  
+
+📌 **Frontend**: Aplicação React → [Acessar](https://agendamentos-front.onrender.com/)  
+📌 **Backend**: API REST Java → [Acessar](https://crud-agendamentos-back-end.onrender.com/listarTodos)  
